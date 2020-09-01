@@ -1,0 +1,36 @@
+#titulo_login {
+    background-color: #FFF333;
+    color: black;
+}
+
+.double-nav .breadcrumb-dn {
+    color: #fff;
+}
+.side-nav.wide.slim .sn-ad-avatar-wrapper a span {
+  display: none;
+}
+
+div{
+  border-radius: 5px;
+}
+.contenedor{ 
+  width:800px;
+  height:100px;
+  display:flex;
+  justify-content: space-around;
+}
+.contenido{
+  height:80px;
+  width:10%;
+  float:left;
+  margin: 30px;
+}
+
+table.dataTable.no-footer {
+    border-bottom: none;
+}
+
+.file-field.big .file-path-wrapper {
+  height: 3.2rem; }
+  .file-field.big .file-path-wrapper .file-path {
+  height: 3rem; }  
